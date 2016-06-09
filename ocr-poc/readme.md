@@ -1,0 +1,1 @@
+Take eng.traineddata from tessract tessdata project and put it inside tessdata folder of resources.  
